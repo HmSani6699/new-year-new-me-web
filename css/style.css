@@ -127,3 +127,47 @@ ul li {
     width: 500px;
     border-radius: 10px;
 }
+
+/* plans section style */
+.plans-section {
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+
+.plan-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+
+.plan-items {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.item {
+    text-align: center;
+    margin: 20px;
+}
+
+.item img {
+    width: 95.96px;
+    margin-bottom: 24px;
+}
+
+.item-title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    margin-bottom: 16px;
+}
+
+.item-description {
+    font-weight: 500;
+    font-size: 20px;
+    color: #737272;
+}
