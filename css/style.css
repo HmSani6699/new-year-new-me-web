@@ -96,3 +96,34 @@ ul li {
     color:
         #16D887;
 }
+
+/* web development mission and info section  style */
+.web-development-mission {
+    margin-top: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mission-btn {
+    width: 170.11px;
+    height: 64px;
+    background: #005FAC;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    border: none;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.deb-mission-img {
+    margin-left: 40px;
+    padding-left: 30px;
+}
+
+.deb-mission-img img {
+    width: 500px;
+    border-radius: 10px;
+}
